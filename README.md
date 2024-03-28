@@ -1,1 +1,1 @@
-# jarvis_discord_bot
+# finAngel_discord_bot
